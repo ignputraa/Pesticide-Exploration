@@ -9,7 +9,7 @@ editor: visual
 
 Data didapatkan dari [pestisida.id](pestisida.id){.uri} pada tanggal 21 Februari 2021. Website tersebut berada di bawah Kementerian Pertanian
 
-## Running Code
+## Input Data
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
